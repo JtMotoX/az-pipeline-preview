@@ -20,7 +20,7 @@ show_help() {
 	printf '  --help                 Show this help message\n'
 	printf '\n'
 	printf 'Example:\n'
-	printf '  %s --project-name urw-workspace --definition-id 446 --branch fix/dockerfile-cmd\n' "${SCRIPT_NAME}"
+	printf '  %s --project-name platform-services --definition-id 1823 --branch feature/add-logging\n' "${SCRIPT_NAME}"
 }
 
 PROJECT=""
